@@ -1,0 +1,14 @@
+#grid {
+    min-width: 200px;
+    height: 200px;
+    border:0.3rem solid black;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+#img{
+	border-radius:10px;
+	min-width:320px;
+}
